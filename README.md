@@ -1,6 +1,8 @@
 # Repo Information Center
 
-Welcome to my Github! This Github follows a set of conventions to make it easier to find relevant code. The primrary conventions relate to `Repository Name` and `Topic Tags`.
+Welcome to my GitHub! This GitHub follows a set of conventions to make it easier to find relevant code. The primary conventions relate to `Repository Name` and `Topic Tags`.
+
+Use these conventions to search for relevant code easily!
 
 ## Topic Tags
 
@@ -33,8 +35,8 @@ Repository names follow a convention of `[prefix]`.`[repo_name]`, where `prefix`
 ### Special Prefixes
 
 * `portfolio`: primary portfolio projects
-* `certification`: code related to certification preperation (typically `private`)
+* `certification`: code related to certification preparation (typically `private`)
 * `interview`: code related to a job interview (typically `private`)
-* `[company_name]`: code related to and publically published while I worked at the specific company. The current list includes:
+* `[company_name]`: code related to and publicly published while I worked at the specific company. The current list includes:
   * `cisco`: Cisco Systems
 * `misc`: random, no better classification
